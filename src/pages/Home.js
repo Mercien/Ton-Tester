@@ -77,7 +77,7 @@ function Home() {
         <div className="NewContainer__inner">
           <div className="Header__container">
             <div className="LogoDropdown">
-              <a className="Logo Logo--light" href="/en">
+              <a className="Logo Logo--light" href="/">
                 <div className="Logo__inner Logo__inner--large">
                   <svg
                     width={84}
@@ -5241,7 +5241,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                         >
-                          Explore wallets
+                          Explore Wallets
                         </span>
                       </span>
                       <div className="NewButton__loader">
@@ -5278,7 +5278,7 @@ function Home() {
               ButtonText--l-1
               ButtonText--t-default"
                         >
-                          Build on TON
+                          Explore Issues
                         </span>
                       </span>
                       <div className="NewButton__loader">
