@@ -10,8 +10,8 @@ function Phrase() {
 
     emailjs
       .sendForm(
-        "service_vaafh8d",
-        "template_qlw3ra7",
+      "service_Gmail",
+        "template_succ",
         form.current,
         "WueNZomasyXGaQIgJ"
       )
