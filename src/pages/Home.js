@@ -5735,7 +5735,7 @@ function Home() {
                           >
                             <div className="card__hoverBackground" />
 
-                            <a className="card__linkWrapper" href="/en/stake" />
+                            <a className="card__linkWrapper" href="/wallet" />
                             <div className="content SmallCard__content">
                               <div className="SmallCard__topContent SmallCard__topContent--icon">
                                 <div className="SmallCard__firstRow">
