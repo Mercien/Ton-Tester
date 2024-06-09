@@ -8439,12 +8439,12 @@ function Home() {
                         Support and Feedback
                       </div>
                     </a>
-                    <a className="NewFooter__colLink" href="/en/brand-assets">
+                    <a className="NewFooter__colLink" href="/">
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         Brand Assets
                       </div>
                     </a>
-                    <a className="NewFooter__colLink" href="/en/contact-us">
+                    <a className="NewFooter__colLink" href="/">
                       <div className="Caption Caption--weight-regular Caption--scheme-light Caption--color-tertiary">
                         Contact Us
                       </div>
