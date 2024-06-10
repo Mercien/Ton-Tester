@@ -416,7 +416,7 @@ function Wallet() {
                 style={{ display: "block" }}
                 defaultValue=""
               />
-              <div className="right__icon">/</div>
+              <div className="right__icon">gggg</div>
             </div>
           </div>
         </div>
@@ -1070,8 +1070,8 @@ function Wallet() {
                 </div>
                 <div className="list" />
               </div>
-            </div>
-          </div> */}
+            </div> */}
+          </div>
           <h1 className="tfm1d2n CategoryAppsContainer__title text-h2-semibold">
             Exchanges DEX<span className="amount">13</span>
           </h1>
