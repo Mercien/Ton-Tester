@@ -429,11 +429,11 @@ function Wallet() {
             </div>
             <span className="icon-hevron_right_16" />
             <div className="crumbs">
-              <span className="last">Exchanges DEX</span>
+              <span className="last">Popular Wallets</span>
             </div>
           </div>
           <h1 className="tfm1d2n CategoryAppsContainer__title text-h2-semibold">
-            Ton Wallets<span className="amount">13</span>
+            Ton Wallets<span className="amount">6</span>
           </h1>
           {/* <h2 className="s1dbxmqd text-l3-regular CategoryAppsContainer__subtitle">
             Buy, sell and swap TON or wTON. Trade cryptocurrencies directly on
@@ -451,8 +451,8 @@ function Wallet() {
                   height={300}
                   decoding="async"
                   data-nimg={1}
-                  srcSet="https://ton.app/media/0f34939b-44b1-4be6-9ac1-2f97d61655d4.png?w=384&q=50 1x, https://ton.app/media/0f34939b-44b1-4be6-9ac1-2f97d61655d4.png?w=640&q=50 2x"
-                  src="https://ton.app/media/0f34939b-44b1-4be6-9ac1-2f97d61655d4.png?w=640&q=50"
+                  srcSet="https://storage.googleapis.com/ton-strapi/tonkeeper_90b21b4c40/tonkeeper_90b21b4c40.svg?w=384&q=50 1x, https://storage.googleapis.com/ton-strapi/tonkeeper_90b21b4c40/tonkeeper_90b21b4c40.svg?w=640&q=50 2x"
+                  src="https://storage.googleapis.com/ton-strapi/tonkeeper_90b21b4c40/tonkeeper_90b21b4c40.svg?w=640&q=50"
                   style={{ color: "transparent" }}
                 />
                 <span className="card-image__rating">1</span>
@@ -545,8 +545,8 @@ function Wallet() {
                   height={300}
                   decoding="async"
                   data-nimg={1}
-                  srcSet="https://ton.app/media/36676ef1-0094-4238-98fb-d65c64a51323.jpg?w=384&q=50 1x, https://ton.app/media/36676ef1-0094-4238-98fb-d65c64a51323.jpg?w=640&q=50 2x"
-                  src="https://ton.app/media/36676ef1-0094-4238-98fb-d65c64a51323.jpg?w=640&q=50"
+                  srcSet="https://storage.googleapis.com/ton-strapi/wallet_efe112ce57/wallet_efe112ce57.svg?w=384&q=50 1x, https://storage.googleapis.com/ton-strapi/wallet_efe112ce57/wallet_efe112ce57.svg?w=640&q=50 2x"
+                  src="https://storage.googleapis.com/ton-strapi/wallet_efe112ce57/wallet_efe112ce57.svg?w=640&q=50"
                   style={{ color: "transparent" }}
                 />
                 <span className="card-image__rating">2</span>
@@ -640,8 +640,8 @@ function Wallet() {
                     height={300}
                     decoding="async"
                     data-nimg={1}
-                    srcSet="https://ton.app/media/b0e0b0fd-2fe0-4cc4-8e14-5cafc7e2f0ed.png?w=384&q=50 1x, https://ton.app/media/b0e0b0fd-2fe0-4cc4-8e14-5cafc7e2f0ed.png?w=640&q=50 2x"
-                    src="https://ton.app/media/b0e0b0fd-2fe0-4cc4-8e14-5cafc7e2f0ed.png?w=640&q=50"
+                    srcSet="https://storage.googleapis.com/ton-strapi/tonhub_e12a0be071/tonhub_e12a0be071.svg?w=384&q=50 1x, https://storage.googleapis.com/ton-strapi/tonhub_e12a0be071/tonhub_e12a0be071.svg?w=640&q=50 2x"
+                    src="https://storage.googleapis.com/ton-strapi/tonhub_e12a0be071/tonhub_e12a0be071.svg?w=640&q=50"
                     style={{ color: "transparent" }}
                   />
                   <span className="card-image__rating">3</span>
@@ -699,8 +699,8 @@ function Wallet() {
                     height={300}
                     decoding="async"
                     data-nimg={1}
-                    srcSet="https://ton.app/media/070f232a-39bd-4f8c-bda8-37e20ccfccc7.jpg?w=384&q=50 1x, https://ton.app/media/070f232a-39bd-4f8c-bda8-37e20ccfccc7.jpg?w=640&q=50 2x"
-                    src="https://ton.app/media/070f232a-39bd-4f8c-bda8-37e20ccfccc7.jpg?w=640&q=50"
+                    srcSet="https://storage.googleapis.com/ton-strapi/Trust_Wallet_faebe816dc/Trust_Wallet_faebe816dc.svg?w=384&q=50 1x, https://storage.googleapis.com/ton-strapi/Trust_Wallet_faebe816dc/Trust_Wallet_faebe816dc.svg?w=640&q=50 2x"
+                    src="https://storage.googleapis.com/ton-strapi/Trust_Wallet_faebe816dc/Trust_Wallet_faebe816dc.svg?w=640&q=50"
                     style={{ color: "transparent" }}
                   />
                   <span className="card-image__rating">4</span>
@@ -797,8 +797,8 @@ function Wallet() {
                     height={300}
                     decoding="async"
                     data-nimg={1}
-                    srcSet="https://ton.app/media/26046e5f-8a15-4c3b-a53a-9743fb813015.png?w=384&q=50 1x, https://ton.app/media/26046e5f-8a15-4c3b-a53a-9743fb813015.png?w=640&q=50 2x"
-                    src="https://ton.app/media/26046e5f-8a15-4c3b-a53a-9743fb813015.png?w=640&q=50"
+                    srcSet="https://storage.googleapis.com/ton-strapi/ton_wallet_18d53a5941/ton_wallet_18d53a5941.svg?w=384&q=50 1x, https://storage.googleapis.com/ton-strapi/ton_wallet_18d53a5941/ton_wallet_18d53a5941.svg?w=640&q=50 2x"
+                    src="https://storage.googleapis.com/ton-strapi/ton_wallet_18d53a5941/ton_wallet_18d53a5941.svg?w=640&q=50"
                     style={{ color: "transparent" }}
                   />
                   <span className="card-image__rating">5</span>
@@ -871,8 +871,8 @@ function Wallet() {
                     height={300}
                     decoding="async"
                     data-nimg={1}
-                    srcSet="https://ton.app/media/f4e7dfaf-012d-465c-b5ac-a372141163d0.jpg?w=384&q=50 1x, https://ton.app/media/f4e7dfaf-012d-465c-b5ac-a372141163d0.jpg?w=640&q=50 2x"
-                    src="https://ton.app/media/f4e7dfaf-012d-465c-b5ac-a372141163d0.jpg?w=640&q=50"
+                    srcSet="https://storage.googleapis.com/ton-strapi/Name_Ledger_ffc335badb/Name_Ledger_ffc335badb.svg?w=384&q=50 1x, https://storage.googleapis.com/ton-strapi/Name_Ledger_ffc335badb/Name_Ledger_ffc335badb.svg?w=640&q=50 2x"
+                    src="https://storage.googleapis.com/ton-strapi/Name_Ledger_ffc335badb/Name_Ledger_ffc335badb.svg?w=640&q=50"
                     style={{ color: "transparent" }}
                   />
                   <span className="card-image__rating">6</span>
